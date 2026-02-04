@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'figtree-var';
+    src: url('/assets/fonts/Figtree-VariableFont_wght.ttf');
+}
+@font-face {
+    font-family: 'figtree-italic';
+    src: url('/assets/fonts/Figtree-Italic-VariableFont_wght.ttf');
+}
+body{
+    margin: 0px;
+    background: #F4D04E;
+}
+
+.container{
+    display:grid;
+    place-content: center;
+}
