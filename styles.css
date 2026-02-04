@@ -58,6 +58,10 @@ h1{
     margin-bottom: 0px;
 }
 
+h1:hover{
+    color: #F4D04E;
+}
+
 h2{
     font-family: 'figtree-var';
     font-size: 14px;
